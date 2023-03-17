@@ -1,0 +1,4 @@
+argparse==1.4.0
+pycryptodome==3.11.0
+tabulate==0.8.9
+Crypto==3.5.0
